@@ -1,0 +1,2 @@
+# Practice-Hygraph
+Hygraph test
